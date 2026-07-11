@@ -1,0 +1,3 @@
+Welcome to Python File Handling!
+This is my first file created using Python.
+Happy Learning!
