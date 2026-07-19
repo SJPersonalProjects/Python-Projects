@@ -1,0 +1,5 @@
+Folder Scan Report
+------------------------------
+Scanned Folder: /home/n3tw0rk/Documents
+Total Folders: 198
+Total Files: 474
