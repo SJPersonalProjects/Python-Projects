@@ -1,0 +1,13 @@
+2026-07-19 16:29:15,695 - INFO - New game started.
+2026-07-19 16:29:15,696 - DEBUG - Secret number generated: 5
+2026-07-19 16:29:21,353 - INFO - Attempt 1: User guessed 2
+2026-07-19 16:29:21,353 - DEBUG - Guess was too low.
+2026-07-19 16:29:23,931 - INFO - Attempt 2: User guessed 10
+2026-07-19 16:29:23,932 - DEBUG - Guess was too high.
+2026-07-19 16:29:27,003 - INFO - Attempt 3: User guessed 3
+2026-07-19 16:29:27,004 - DEBUG - Guess was too low.
+2026-07-19 16:29:29,164 - INFO - Attempt 4: User guessed 8
+2026-07-19 16:29:29,164 - DEBUG - Guess was too high.
+2026-07-19 16:29:31,108 - INFO - Attempt 5: User guessed 5
+2026-07-19 16:29:31,109 - INFO - User guessed the correct number.
+2026-07-19 16:29:31,109 - INFO - Game finished in 5 attempts.
