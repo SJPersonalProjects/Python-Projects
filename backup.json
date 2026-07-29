@@ -1,0 +1,18 @@
+{
+    "project": "Student Management Ssytem",
+    "version": "1.0",
+    "students": [
+        {
+            "name": "Ali",
+            "marks": 88
+        },
+        {
+            "name": "Sara",
+            "marks": 95
+        },
+        {
+            "name": "Ahmed",
+            "marks": 81
+        }
+    ]
+}
